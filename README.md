@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @prince0903
-- 👀 I’m interested in  la programmation ,L'intelligence artificielle
-      - 🌱 I’m currently learning des  languages de programmation comme python et C,et je concois quelques sites avec html css
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me? Mon numéro whatsapp est  97689245
+### Nice to meet you! 👋
 
-<!---
-prince0903/prince0903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Machine Learning Ingeneer,Developper Python,FullStack Django and React JS
+
+I have been passionate about computer Science in general, for many years. The fact
+to create applications, to configure systems, to control
+remote machines are are all things that pushed me into this
+domain.
+
+I am amazed by Artificial Intelligence, the creation of neural networks with Deep Learning to solve difficult problems that escape classical programming.
+My future career and my professional goal is to become a Machine Learning Engineer
+
+![Prince Gedeon 's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince9603&show_icons=true)
+
